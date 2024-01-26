@@ -1,8 +1,8 @@
-# SPA Universe
+# 🌌 SPA Universe
 
 Este desafio foi feito pela Rocketseat a fim de práticar conceitos como Single Page Application e Roteamento com Javascript Vanilla.
 
-## Imagens:
+## 📸 Imagens:
 
 ### Home
 ![image](https://github.com/progmesquita/spa-universe-rocketseat-challenge/assets/121181562/fc321c57-574b-4150-a733-abfb9cf96097)
